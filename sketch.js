@@ -36,7 +36,7 @@ function sin_sum(n, T) {
 
 
 function setup() {
-  createCanvas(1500, 600);
+  createCanvas(1200, 600);
   sliderAng = createSlider(185, 360, 0, 5);
   sliderAng.position(10, 10);
   sliderAng.style('width', '180px');
